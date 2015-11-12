@@ -15,7 +15,7 @@ headers = ['number', 'id', 'created_at', 'updated_at', 'closed_at', 'state',
            'user','closed_by', 'labels', 'html_url', 'labels_url', 'url', 'events_url', 
            'comments_url', 'body']
 
-with open('F:/stocks.csv','w') as f:
+with open('G:/stocks.csv','wb') as f:
     f_csv = csv.DictWriter(f, headers)
     f_csv.writeheader()
     
@@ -25,8 +25,8 @@ with open('F:/stocks.csv','w') as f:
             try:
                 print ('issue: ', issue)
                 f_csv.writerow(issue)
-            except:
-                print(issue['number'])
+            except Exception as e:
+                print(issue['number'], ': ', e)
 
 
     
