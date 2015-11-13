@@ -4,6 +4,9 @@ Created on 20151111
 @author: xiaobena
 '''
 import csv
+import re
+import urllib.request
+
 from libsaas.services import github
 
 basic = github.Github('username', 'password')
@@ -19,11 +22,11 @@ with open('F:/numpy.csv','w',newline='') as f:
     f_csv = csv.DictWriter(f, headers)
     f_csv.writeheader()
     
-    for i in range(1,2):
-        issues = repo.issues().get(state='closed', page = i)
+    for page in range(1,2):
+        issues = repo.issues().get(state='closed', page = page)
         for issue in issues:
             try:
-#                print('issue: ', issue)
+                print('issue: ', issue['number'])
                 reporter = issue['user']['login']
                 
                 label_names = []
@@ -37,6 +40,68 @@ with open('F:/numpy.csv','w',newline='') as f:
                 if 'pull_request' in issue.keys():
                     diff = issue['pull_request']['diff_url']
                     patch = issue['pull_request']['patch_url']
+                    
+                    patch_content = urllib.request.urlopen(patch)
+                    content = patch_content.read().decode("utf8")
+                    
+                    lines = content.splitlines()
+                    print('content length: ', len(lines))
+                    
+                    hash = lines[0][5:12]
+                    print('hash: ', hash)
+                    author = lines[1][5:]
+                    print('author: ', author)
+                    date = lines[2][5:]
+                    print('date: ', date)
+                    
+                    subject = lines[3][5:]
+                    
+                    index = 4
+                    
+                    for i in range(index, len(lines)):
+                        if lines[i]=='---':
+                            break
+                        else:
+                            subject += lines[i]
+                    print('subject: ', subject)
+                    
+                    index = i+1
+#                    print(i)
+                    nfiles = 0
+                    ninsertions = 0
+                    ndeletions = 0
+                    
+                    files = []
+                    changes = []
+                    insertions = []
+                    deletions = []
+                    
+                    for j in range(index, len(lines)):
+                        print('j:', j)
+                        if '|' not in lines[j]:
+                            print('get changed files.')
+                            temp = lines[j].strip().split(',')
+                            for str in temp:
+                                if 'changed' in str:
+                                    nfiles = re.findall(r"\d+\.?\d*",str)[0]
+                                if 'insertions' in str:
+                                    ninsertions = re.findall(r"\d+\.?\d*",str)[0]
+                                if 'deletions' in str:
+                                    ndeletions = re.findall(r"\d+\.?\d*",str)[0]    
+                            break
+                        
+                        else:
+                            temp = lines[j].split('|')
+                            files.append(temp[0].strip()) 
+                            changes.append(re.findall(r"\d+\.?\d*",temp[1]))
+                            print(re.findall(r"\d+\.?\d*",temp[1]))
+                            insertions.append(temp[1].count('+'))
+                            deletions.append(temp[1].count('-'))
+                     
+                    index = j + 2       
+                    locations = []
+                    roots = []
+                                       
                 
                 issue_part = {'reporter':reporter, 'label_name':label_name,
                               'diff':diff, 'patch':patch}
