@@ -3,8 +3,6 @@
 '''
 import github
 import csv
-from pydoc import pager
-from pkg_resources import null_ns_handler
 
 gh = github.GitHub()
 print(gh.users('michaelliao').get())
@@ -14,7 +12,7 @@ headers = ['number', 'id', 'reporter', 'created_at', 'updated_at', 'closed_at', 
            'user', 'labels', 'html_url', 'labels_url', 'url', 'events_url', 'diff', 'patch',
            'comments_url', 'body']
 
-with open('G:/numpy.csv','wb') as f:
+with open('F:/numpy.csv','w', newline='') as f:
     f_csv = csv.DictWriter(f, headers)
     f_csv.writeheader()
     
