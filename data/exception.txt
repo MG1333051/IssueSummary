@@ -1,0 +1,116 @@
+6674: 'ascii' codec can't encode character u'\u2026' in position 67: ordinal not in range(128)	
+6658: 'ascii' codec can't encode character u'\xb5' in position 1949: ordinal not in range(128)	
+6606: [Errno socket error] [Errno 10060] 	
+6596: [Errno socket error] [Errno 10060] 	
+6495: 'ascii' codec can't encode character u'\u2018' in position 50: ordinal not in range(128)	
+6466: 'ascii' codec can't encode character u'\u2019' in position 44: ordinal not in range(128)	
+6446: [Errno socket error] [Errno 10060] 	
+6443: [Errno socket error] [Errno 10060] 	
+6440: [Errno socket error] [Errno 10060] 	
+6411: 'ascii' codec can't encode character u'\xb2' in position 151: ordinal not in range(128)	
+6403: 'ascii' codec can't encode character u'\xb2' in position 169: ordinal not in range(128)	
+6402: 'ascii' codec can't encode character u'\xb2' in position 47: ordinal not in range(128)	
+6352: 'ascii' codec can't encode character u'\u2019' in position 44: ordinal not in range(128)	
+6283: local variable 'n' referenced before assignment	
+6269: [Errno socket error] [Errno 10060] 	
+6258: 'ascii' codec can't encode character u'\u201c' in position 226: ordinal not in range(128)	
+6232: 'ascii' codec can't encode character u'\u201d' in position 0: ordinal not in range(128)	
+6218: 'ascii' codec can't encode character u'\u2026' in position 74: ordinal not in range(128)	
+6186: 'ascii' codec can't encode character u'\xb5' in position 627: ordinal not in range(128)	
+6154: 'ascii' codec can't encode character u'\u201c' in position 224: ordinal not in range(128)	
+6153: 'ascii' codec can't encode character u'\u201c' in position 224: ordinal not in range(128)	
+6152: 'ascii' codec can't encode character u'\u201c' in position 224: ordinal not in range(128)	
+6143: 'ascii' codec can't encode character u'\u201c' in position 224: ordinal not in range(128)	
+6142: ('http protocol error', 0, 'got a bad status line', None)	
+6100: [Errno socket error] [Errno 10060] 	
+6039: 'ascii' codec can't encode character u'\u2026' in position 69: ordinal not in range(128)	
+5999: [Errno socket error] [Errno 10060] 	
+5941: local variable 'n' referenced before assignment	
+5909: [Errno socket error] [Errno 10060] 	
+5877: 'ascii' codec can't encode character u'\xe2' in position 434: ordinal not in range(128)	
+5860: [Errno socket error] [Errno 10060] 	
+5701: 'ascii' codec can't encode character u'\xb5' in position 375: ordinal not in range(128)	
+5682: [Errno socket error] [Errno 10060] 	
+5635: 'ascii' codec can't encode character u'\u2018' in position 253: ordinal not in range(128)	
+5525: local variable 'n' referenced before assignment	
+5454: [Errno socket error] [Errno 10060] 	
+5449: local variable 'n' referenced before assignment	
+5425: 'ascii' codec can't encode character u'\xd2' in position 550: ordinal not in range(128)	
+5409: local variable 'n' referenced before assignment	
+5366: 'ascii' codec can't encode character u'\xb5' in position 193: ordinal not in range(128)	
+5291: 'ascii' codec can't encode character u'\u21e5' in position 267: ordinal not in range(128)	
+5265: local variable 'j' referenced before assignment	
+5263: 'ascii' codec can't encode character u'\u2019' in position 282: ordinal not in range(128)	
+5231: 'ascii' codec can't encode character u'\u2018' in position 1231: ordinal not in range(128)	
+5211: 'ascii' codec can't encode character u'\xa0' in position 11: ordinal not in range(128)	
+4834: 'ascii' codec can't encode character u'\u2018' in position 1924: ordinal not in range(128)	
+4806: 'ascii' codec can't encode character u'\u2026' in position 62: ordinal not in range(128)	
+4754: 'ascii' codec can't encode character u'\u03b8' in position 62: ordinal not in range(128)	
+4741: 'ascii' codec can't encode character u'\u2018' in position 455: ordinal not in range(128)	
+4721: 'ascii' codec can't encode character u'\xb5' in position 651: ordinal not in range(128)	
+4714: 'ascii' codec can't encode character u'\u2013' in position 1081: ordinal not in range(128)	
+4703: 'ascii' codec can't encode characters in position 4685-4687: ordinal not in range(128)	
+4690: 'ascii' codec can't encode character u'\u2026' in position 87: ordinal not in range(128)	
+4673: 'ascii' codec can't encode character u'\u2018' in position 93: ordinal not in range(128)	
+4659: 'ascii' codec can't encode character u'\xb5' in position 452: ordinal not in range(128)	
+4606: 'ascii' codec can't encode character u'\xb5' in position 368: ordinal not in range(128)	
+4561: 'ascii' codec can't encode character u'\xb5' in position 226: ordinal not in range(128)	
+4488: 'utf8' codec can't decode byte 0xa9 in position 28588: invalid start byte	
+4477: local variable 'n' referenced before assignment	
+4427: 'ascii' codec can't encode character u'\u201c' in position 133: ordinal not in range(128)	
+4424: 'utf8' codec can't decode byte 0xf6 in position 2191523: invalid start byte	
+4283: 'ascii' codec can't encode character u'\u2026' in position 456: ordinal not in range(128)	
+4188: 'ascii' codec can't encode character u'\xb5' in position 364: ordinal not in range(128)	
+4174: 'ascii' codec can't encode character u'\xb5' in position 546: ordinal not in range(128)	
+4168: 'utf8' codec can't decode byte 0xf6 in position 46306: invalid start byte	
+4063: 'ascii' codec can't encode character u'\xa0' in position 10: ordinal not in range(128)	
+4058: 'ascii' codec can't encode character u'\xb5' in position 514: ordinal not in range(128)	
+3999: 'ascii' codec can't encode character u'\xb5' in position 241: ordinal not in range(128)	
+3988: 'ascii' codec can't encode character u'\u2018' in position 6516: ordinal not in range(128)	
+3931: 'ascii' codec can't encode character u'\xb5' in position 426: ordinal not in range(128)	
+3930: 'ascii' codec can't encode character u'\u2018' in position 73: ordinal not in range(128)	
+2916: name 'diff_url' is not defined	
+2915: name 'diff_url' is not defined	
+2849: [Errno socket error] [Errno 10060] 	
+2819: local variable 'n' referenced before assignment	
+2786: local variable 'n' referenced before assignment	
+2771: 'ascii' codec can't encode character u'\u2026' in position 3: ordinal not in range(128)	
+2753: 'ascii' codec can't encode character u'\u2013' in position 5: ordinal not in range(128)	
+2708: [Errno socket error] [Errno 10060] 	
+2665: 'ascii' codec can't encode character u'\u2026' in position 495: ordinal not in range(128)	
+2607: 'ascii' codec can't encode character u'\u201c' in position 5: ordinal not in range(128)	
+2592: 'ascii' codec can't encode character u'\xc5' in position 402: ordinal not in range(128)	
+2562: 'ascii' codec can't encode character u'\u2013' in position 333: ordinal not in range(128)	
+2544: 'ascii' codec can't encode character u'\u2018' in position 531: ordinal not in range(128)	
+2509: 'ascii' codec can't encode character u'\xe9' in position 587: ordinal not in range(128)	
+2408: 'ascii' codec can't encode character u'\u2019' in position 136: ordinal not in range(128)	
+2319: 'ascii' codec can't encode character u'\u2018' in position 683: ordinal not in range(128)	
+2210: 'ascii' codec can't encode character u'\u2018' in position 4926: ordinal not in range(128)	
+2168: 'ascii' codec can't encode character u'\u2018' in position 1915: ordinal not in range(128)	
+2123: 'ascii' codec can't encode character u'\u2018' in position 596: ordinal not in range(128)	
+2121: 'ascii' codec can't encode character u'\u201c' in position 1010: ordinal not in range(128)	
+2088: 'ascii' codec can't encode character u'\xa0' in position 317: ordinal not in range(128)	
+2084: 'ascii' codec can't encode character u'\u2026' in position 999: ordinal not in range(128)	
+2070: 'ascii' codec can't encode character u'\xe9' in position 306: ordinal not in range(128)	
+2068: 'ascii' codec can't encode character u'\u2018' in position 479: ordinal not in range(128)	
+3915: name 'diff_url' is not defined	
+3847: 'ascii' codec can't encode character u'\xf8' in position 567: ordinal not in range(128)	
+3730: local variable 'j' referenced before assignment	
+3708: 'ascii' codec can't encode character u'\u2502' in position 211: ordinal not in range(128)	
+3702: 'ascii' codec can't encode character u'\xe9' in position 21: ordinal not in range(128)	
+3663: 'ascii' codec can't encode character u'\xe9' in position 4: ordinal not in range(128)	
+3598: 'ascii' codec can't encode character u'\u2018' in position 128: ordinal not in range(128)	
+3579: 'ascii' codec can't encode character u'\xfc' in position 17: ordinal not in range(128)	
+3574: 'ascii' codec can't encode character u'\xfc' in position 17: ordinal not in range(128)	
+3553: 'ascii' codec can't encode character u'\uff09' in position 34: ordinal not in range(128)	
+3552: 'ascii' codec can't encode character u'\u2192' in position 101: ordinal not in range(128)	
+3527: 'ascii' codec can't encode character u'\xfc' in position 17: ordinal not in range(128)	
+3468: 'ascii' codec can't encode character u'\u2013' in position 349: ordinal not in range(128)	
+3451: 'ascii' codec can't encode character u'\u2018' in position 1080: ordinal not in range(128)	
+3443: 'ascii' codec can't encode character u'\xfc' in position 1539: ordinal not in range(128)	
+3421: 'ascii' codec can't encode character u'\xb5' in position 304: ordinal not in range(128)	
+3133: local variable 'j' referenced before assignment	
+3132: local variable 'j' referenced before assignment	
+2990: 'ascii' codec can't encode character u'\u2018' in position 1915: ordinal not in range(128)	
+
+
