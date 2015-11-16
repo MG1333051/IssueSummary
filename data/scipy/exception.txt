@@ -1,0 +1,49 @@
+5471: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+5468: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+5420: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+5404: 'gbk' codec can't encode character '\u2212' in position 2038: illegal multibyte sequence	
+5368: 'gbk' codec can't encode character '\xb5' in position 3809: illegal multibyte sequence	
+5363: 'gbk' codec can't encode character '\xa0' in position 5524: illegal multibyte sequence	
+5341: 'gbk' codec can't encode character '\xae' in position 2992: illegal multibyte sequence	
+5280: 'gbk' codec can't encode character '\xb5' in position 3578: illegal multibyte sequence	
+5170: 'gbk' codec can't encode character '\xe6' in position 1674: illegal multibyte sequence	
+5034: 'gbk' codec can't encode character '\xb5' in position 435: illegal multibyte sequence	
+4792: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+4786: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+4735: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+4651: local variable 'n' referenced before assignment	
+4573: 'gbk' codec can't encode character '\xb5' in position 3138: illegal multibyte sequence	
+4485: local variable 'j' referenced before assignment	
+4423: local variable 'n' referenced before assignment	
+4274: local variable 'j' referenced before assignment	
+4260: local variable 'n' referenced before assignment	
+3914: 'gbk' codec can't encode character '\xb5' in position 3815: illegal multibyte sequence	
+3670: 'gbk' codec can't encode character '\xb5' in position 3833: illegal multibyte sequence	
+3103: 'gbk' codec can't encode character '\xb5' in position 2193: illegal multibyte sequence	
+3035: 'gbk' codec can't encode character '\xb5' in position 2395: illegal multibyte sequence	
+2929: 'gbk' codec can't encode character '\xab' in position 3563: illegal multibyte sequence	
+2881: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+2879: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+2878: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+2874: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+2873: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+2870: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+2869: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+2864: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+2858: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+2857: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+2856: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+2855: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+2854: <urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>	
+2848: name 'diff_url' is not defined	
+2847: 'gbk' codec can't encode character '\xb5' in position 3659: illegal multibyte sequence	
+2825: 'gbk' codec can't encode character '\xef' in position 1818: illegal multibyte sequence	
+2806: local variable 'j' referenced before assignment	
+2804: local variable 'j' referenced before assignment	
+2761: 'gbk' codec can't encode character '\xa3' in position 3603: illegal multibyte sequence	
+2641: local variable 'n' referenced before assignment	
+2212: 'gbk' codec can't encode character '\xb2' in position 2537: illegal multibyte sequence	
+1800: 'gbk' codec can't encode character '\x81' in position 5713: illegal multibyte sequence	
+5190: name 'diff_url' is not defined	
+5170: 'gbk' codec can't encode character '\xe6' in position 1674: illegal multibyte sequence	
+5162: 'utf-8' codec can't decode byte 0xa2 in position 4432: invalid start byte	
